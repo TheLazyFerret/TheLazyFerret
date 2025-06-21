@@ -10,3 +10,4 @@
 
 ### Some repos I'm specially proud of
 - [Runtime fixed size Bitset for c++](https://github.com/TheLazyFerret/RuntimeBitset)
+- [Very simple interpreter I made totally from scratch in rust](https://github.com/TheLazyFerret/interpreter-rs)
