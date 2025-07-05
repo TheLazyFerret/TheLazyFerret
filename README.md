@@ -1,6 +1,6 @@
 ### About me
 - Computer engineering student.
-- c++ developer.
+- c++ developer/student.
 - Completely new on github, still learning how to move here.
 
 ### My interests
