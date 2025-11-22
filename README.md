@@ -9,4 +9,4 @@
 - Ferrets :)
 
 ### Some repos I'm specially proud of
-in progress :)
+- [Turing machine simulator made in rust.](https://github.com/TheLazyFerret/turing-machine-simulator)
