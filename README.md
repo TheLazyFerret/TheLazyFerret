@@ -1,12 +1,11 @@
 ### About me
 - Computer engineering student.
-- c++ developer/student.
-- New on github and development, still learning how to move here.
+- `C++` programmer at university.
+- `Rust` programmer at home.
 
 ### My interests
-- Lover of everything related to the low level code.
-- Self learning rust.
-- Ferrets :)
+- *nix world.
+- Programming languages with cool mascot ([Rust](https://rust-lang.org/), [Golang](https://go.dev/), [Zig](https://ziglang.org/))
 
-### Some repos I'm specially proud of
+### Cool projects I've done
 - [Turing machine simulator made in rust.](https://github.com/TheLazyFerret/turing-machine-simulator)
