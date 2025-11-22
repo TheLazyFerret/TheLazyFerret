@@ -1,7 +1,7 @@
 ### About me
 - Computer engineering student.
-- `C++` programmer at university.
-- `Rust` programmer at home.
+- `C++`  at university.
+- `Rust` at home.
 
 ### My interests
 - *nix world.
