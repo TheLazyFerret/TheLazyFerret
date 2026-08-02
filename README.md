@@ -1,7 +1,6 @@
 ### About me
 - Computer engineering student.
-- `C++`  at university.
-- `Rust` at home.
+- I like a lot both `c++` and `rust`.
 
 ### My interests
 - *nix world.
