@@ -1,6 +1,7 @@
 ### About me
 - Computer engineering student.
-- I like a lot both `c++` and `rust`.
+- I program mostly in `c++` and `rust`.
+- I don't like AI.
 
 ### My interests
 - *nix world.
