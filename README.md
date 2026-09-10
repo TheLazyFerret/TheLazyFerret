@@ -1,7 +1,7 @@
 ### About me
 - Computer engineering student.
 - I program mostly in `c++` and `rust`.
-- I don't like AI.
+- I don't like AI. I can write the slop by myself :)
 
 ### My interests
 - *nix world.
