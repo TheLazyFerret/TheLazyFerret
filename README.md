@@ -11,3 +11,4 @@
 
 ### Cool projects I've done
 - [Turing machine simulator made in rust.](https://github.com/TheLazyFerret/turing-machine-simulator)
+- [UTF8 string library for c++.](https://github.com/TheLazyFerret/UTF8String-cpp)
